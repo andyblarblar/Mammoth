@@ -23,6 +23,7 @@ Note: It should be building ros_ign and mammoth packages from source!
 
 ## Launching
 
+
 For information on launching and running the project, head to the following packages and view the ReadMe.
 - Robot -> mammoth_snowplow
 - Simulation -> mammoth_gazebo
